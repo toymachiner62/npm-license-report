@@ -1,0 +1,20 @@
+{
+  "name": "npm-license-report",
+  "version": "1.0.0",
+  "description": "Get a tab delimited license report for your npm package.",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "license",
+    "oss"
+  ],
+  "author": "Grant Callaghan <grant.callaghan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "npm": "^6.4.1"
+  }
+}
